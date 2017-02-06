@@ -1,0 +1,10 @@
+/* Awesome styling */
+h1 {
+    font-size: 5em;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.char3 {
+    color: red;
+}
